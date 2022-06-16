@@ -1,0 +1,24 @@
+[
+  {
+    "package": "cornet",
+    "oncran": true
+  },
+  {
+    "package": "joinet",
+    "oncran": true
+  },
+  {
+    "package": "palasso",
+    "oncran": true
+  },
+  {
+    "package": "starnet",
+    "oncran": true
+  },
+  {
+    "package": "globalSeq"
+  },
+  {
+    "package": "semisup"
+  }
+]
