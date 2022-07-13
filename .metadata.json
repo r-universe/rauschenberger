@@ -14,5 +14,11 @@
   {
     "package": "starnet",
     "oncran": true
+  },
+  {
+    "package": "globalSeq"
+  },
+  {
+    "package": "semisup"
   }
 ]

@@ -23,3 +23,13 @@
 	url = https://github.com/rauschenberger/starnet
 	shallow = true
 	registered = true
+[submodule "globalSeq"]
+	path = globalSeq
+	url = https://github.com/rauschenberger/globalseq
+	shallow = true
+	registered = true
+[submodule "semisup"]
+	path = semisup
+	url = https://github.com/rauschenberger/semisup
+	shallow = true
+	registered = true
