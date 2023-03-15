@@ -1,6 +1,6 @@
 [
   {
-    "package": "palasso",
+    "package": "cornet",
     "oncran": true
   },
   {
@@ -11,7 +11,7 @@
     "oncran": true
   },
   {
-    "package": "cornet",
+    "package": "palasso",
     "oncran": true
   },
   {

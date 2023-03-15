@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "palasso"]
-	path = palasso
-	url = https://github.com/rauschenberger/palasso
+[submodule "cornet"]
+	path = cornet
+	url = https://github.com/rauschenberger/cornet
 	shallow = true
 	registered = true
 [submodule "globalSeq"]
@@ -18,9 +18,9 @@
 	url = https://github.com/rauschenberger/joinet
 	shallow = true
 	registered = true
-[submodule "cornet"]
-	path = cornet
-	url = https://github.com/rauschenberger/cornet
+[submodule "palasso"]
+	path = palasso
+	url = https://github.com/rauschenberger/palasso
 	shallow = true
 	registered = true
 [submodule "semisup"]
