@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/rauschenberger/cornet
-	shallow = true
-	registered = true
 [submodule "globalSeq"]
 	path = globalSeq
 	url = https://github.com/rauschenberger/globalseq
-	shallow = true
-	registered = true
 [submodule "joinet"]
 	path = joinet
 	url = https://github.com/rauschenberger/joinet
-	shallow = true
-	registered = true
 [submodule "palasso"]
 	path = palasso
 	url = https://github.com/rauschenberger/palasso
-	shallow = true
-	registered = true
 [submodule "semisup"]
 	path = semisup
 	url = https://github.com/rauschenberger/semisup
-	shallow = true
-	registered = true
 [submodule "starnet"]
 	path = starnet
 	url = https://github.com/rauschenberger/starnet
-	shallow = true
-	registered = true
