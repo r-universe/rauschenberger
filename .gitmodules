@@ -5,18 +5,12 @@
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/rauschenberger/cornet
-[submodule "globalSeq"]
-	path = globalSeq
-	url = https://github.com/rauschenberger/globalseq
 [submodule "joinet"]
 	path = joinet
 	url = https://github.com/rauschenberger/joinet
 [submodule "palasso"]
 	path = palasso
 	url = https://github.com/rauschenberger/palasso
-[submodule "semisup"]
-	path = semisup
-	url = https://github.com/rauschenberger/semisup
 [submodule "starnet"]
 	path = starnet
 	url = https://github.com/rauschenberger/starnet
