@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CorShrink"]
+	path = CorShrink
+	url = https://github.com/kkdey/CorShrink
+	registered = false
+[submodule "ashr"]
+	path = ashr
+	url = https://github.com/stephens999/ashr
+	registered = false
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/rauschenberger/cornet
