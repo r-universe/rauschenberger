@@ -14,3 +14,6 @@
 [submodule "starnet"]
 	path = starnet
 	url = https://github.com/rauschenberger/starnet
+[submodule "transreg"]
+	path = transreg
+	url = https://github.com/rauschenberger/transreg
