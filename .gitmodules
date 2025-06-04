@@ -11,6 +11,9 @@
 [submodule "palasso"]
 	path = palasso
 	url = https://github.com/rauschenberger/palasso
+[submodule "sparselink"]
+	path = sparselink
+	url = https://github.com/rauschenberger/sparselink
 [submodule "starnet"]
 	path = starnet
 	url = https://github.com/rauschenberger/starnet
